@@ -1,4 +1,4 @@
-#EX-05 Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# EX-05 Monitoring soil moisture value in Thing speak cloud
 ### NAME: OVIYA P
 ### REG.NO: 212223110033
 
